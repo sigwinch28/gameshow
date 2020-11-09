@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Bangers', cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  color: white;
+  background-color: rgb(50, 50, 50);
+}
+
+input, button, textarea {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* button {
+  border: .2em solid gold;
+  padding: .4em;
+  color: inherit;
+  background: transparent;
+} */
+
+/* button:active {
+  background: gold;
+  color: black;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
